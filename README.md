@@ -1,1 +1,1 @@
-https://stantsvek.github.io/rsschool-cv/
+# rsschool-cv
